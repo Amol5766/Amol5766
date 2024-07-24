@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 ## 👨🏻‍💻 About Me:
 
 
-- 🙋‍♂️ All about me is at **[My Website](https://amol5766.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
 
 - 🔭 I’m currently working on `Something Interesting`.
 
