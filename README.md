@@ -11,6 +11,7 @@
 </h1>
 
 <br/>
+![](https://komarev.com/ghpvc/?username=Amol5766)
 
 ## 👨🏻‍💻 About Me:
 <h6> Quote Credits: Vsauce </h6> 
