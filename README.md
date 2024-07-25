@@ -61,6 +61,12 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
+## Trophies
+<details><summary>Discover</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=prakharrathi25&column=7&theme=gruvbox&no-frame=true"/>
+</details>
+
 ## ❤️ Let's get connected:
 
 <p align="center">
