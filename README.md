@@ -67,13 +67,10 @@ Here are some ideas to get you started: -->
   <a href="https://twitter.com/@AmolM002" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
   </a>
-  <a href="https://www.linkedin.com/in/example/" target="_blank">
+  <a href="https://www.linkedin.com/in/amol-m-82755a255/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
   </a>
-  <a href="https://exampleblog.com" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://www.instagram.com/example" target="_blank">
+  <a href="https://www.instagram.com/not_amol_ok/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
   </a>
   <a href="mailto:amolmaheshwara270@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px" />
