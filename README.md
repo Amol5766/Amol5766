@@ -64,7 +64,7 @@ Here are some ideas to get you started: -->
   <a href="https://amol-portfolio-plum.vercel.app/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
-  <a href="https:/@AmolM002" target="_blank">
+  <a href="https://twitter.com/@AmolM002" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
   </a>
   <a href="https://www.linkedin.com/in/example/" target="_blank">
