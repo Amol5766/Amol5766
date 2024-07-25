@@ -69,23 +69,13 @@
 
 ## ❤️ Let's get connected:
 
-<p align="center">
-  <a href="https://amol-portfolio-plum.vercel.app/" target="_blank">
-    <img alt="" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
-  </a>
-  <a href="https://twitter.com/@AmolM002" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amol-m-82755a255/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30px"/>
-  </a>
-  <a href="https://www.instagram.com/not_amol_ok/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30px"/>
-  </a>
-  <a href="mailto:amolmaheshwara270@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30px"/>
-  </a>
-</p>
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/amol-m-82755a255/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://amol-portfolio-plum.vercel.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
+  <code><a href="mailto:amolmaheshwara270@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
+  <code><a href="https://twitter.com/@AmolM002" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  
 
 ## 📊 My GitHub Stats:
 
