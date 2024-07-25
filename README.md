@@ -76,9 +76,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" alt="Amol's Top Languages" />
 </div>
 
-
-## 📫 How to reach me:
-
-<p align="center">
-  <a href="mailto:amolmaheshwara270@gmail.com">
-    <img alt="Email" src="https://img.shields.io
