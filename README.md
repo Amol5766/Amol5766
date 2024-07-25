@@ -58,7 +58,7 @@
 ## ❤️ Let's get connected:
 
 <p align="center">
-  <a href="https://amol-portfolio-plum.vercel.app/" target="_blank">
+  <a href="https://amol-portfolio-plum.vercel.app/" target="AMOL.TECH">
     <img alt="AMOL.TECH" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
   <a href="https://twitter.com/@AmolM002" target="_blank">
