@@ -4,10 +4,18 @@
 <div align="center">
   <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile" alt="Profile Banner" />
 </div>
+<h1 align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
+  </a>
+</h1>
 
 <br/>
 
 ## 👨🏻‍💻 About Me:
+<h6> Quote Credits: Vsauce </h6> 
+
+<p align="center"><img src="https://profile-counter.glitch.me/Amol5766/count.svg"/></p>
 
 <img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
