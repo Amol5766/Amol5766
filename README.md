@@ -71,33 +71,11 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/amol-m-82755a255/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://amol-portfolio-plum.vercel.app/" title="Portfolio Website">
-      <img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio
-    </a>
-  </code>
-  <code>
-    <a href="mailto:amolmaheshwara270@gmail.com" title="Gmail">
-      <img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail
-    </a>
-  </code>
-  <code>
-    <a href="https://twitter.com/@AmolM002" title="Twitter">
-      <img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter
-    </a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/not_amol_ok/" title="Instagram">
-      <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram
-    </a>
-  </code>
-</h5>
-
-  
+    <a href="https://www.linkedin.com/in/amol-m-82755a255/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://amol-portfolio-plum.vercel.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
+  <code><a href="mailto:amolmaheshwara270@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
+  <code><a href="https://twitter.com/@AmolM002" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  <code><a href="https://www.instagram.com/not_amol_ok/" title="Instagram"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram</code>
 
 ## 📊 My GitHub Stats:
 
