@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img src="https://via.placeholder.com/290x290.png?text=GIF" height="290px" align="right" />
+<img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
 - 🔭 I’m currently working on `Something Interesting`
@@ -75,4 +75,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol5766&theme=radical" alt="Amol's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" alt="Amol's Top Languages" />
 </div>
-
