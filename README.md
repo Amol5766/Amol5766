@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img src="thoughtworks-gif_dribbble.gif" height="250px" align="right" />
+<img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
   
