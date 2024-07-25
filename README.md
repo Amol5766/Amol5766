@@ -13,6 +13,7 @@
 <br/>
 
 ## 👨🏻‍💻 About Me:
+![](https://komarev.com/ghpvc/?username=Amol5766)
 <h6> Quote Credits: Vsauce </h6> 
 
 <p align="center"><img src="https://profile-counter.glitch.me/Amol5766/count.svg"/></p>
