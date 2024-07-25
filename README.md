@@ -59,7 +59,7 @@
 
 <p align="center">
   <a href="https://amol-portfolio-plum.vercel.app/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+    <img alt="AMOL.TECH" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
   <a href="https://twitter.com/@AmolM002" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
