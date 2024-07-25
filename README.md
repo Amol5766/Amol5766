@@ -13,8 +13,6 @@
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
   
-- 🔭 I’m currently working on `Something Interesting`
-  
 - 🌱 I’m currently learning `MERN Stack`
   
 - 👯 I’m looking to collaborate on `Dev Projects`
@@ -58,8 +56,8 @@
 ## ❤️ Let's get connected:
 
 <p align="center">
-  <a href="https://amol-portfolio-plum.vercel.app/" target="AMOL.TECH">
-    <img alt="AMOL.TECH" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+  <a href="https://amol-portfolio-plum.vercel.app/" target="_blank">
+    <img alt="" src="https://img.shields.io/badge/Website-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
   <a href="https://twitter.com/@AmolM002" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30px"/>
