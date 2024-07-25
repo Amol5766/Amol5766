@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 
 ## 👨🏻‍💻 About Me:
 
-<img src="https://via.placeholder.com/290x290.png?text=GIF" height="290px" align="right" />
+<img src="https://thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
 
