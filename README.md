@@ -9,15 +9,22 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img src="thoughtworks-gif_dribbble.gif" height="220px" align="right" />
+<img src="thoughtworks-gif_dribbble.gif" height="250px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
+  
 - 🔭 I’m currently working on `Something Interesting`
+  
 - 🌱 I’m currently learning `MERN Stack`
+  
 - 👯 I’m looking to collaborate on `Dev Projects`
+  
 - 🤔 I’m looking for help with `Competitive Programming`
+  
 - 💬 Ask me about anything, Except Maths :sweat_smile:
+  
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+  
 - ⚡ Fun fact: I waste most of my time playing games
 
 ## 🛠️ Technologies and Tools I use:
