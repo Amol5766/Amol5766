@@ -11,9 +11,6 @@
 </h1>
 
 <br/>
-![](https://komarev.com/ghpvc/?username=ThilinaRajapakse)
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
 
 ## 👨🏻‍💻 About Me:
 <h6> Quote Credits: Vsauce </h6> 
