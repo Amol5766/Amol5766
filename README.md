@@ -1,17 +1,12 @@
-<h1 align="center">
-  Hello 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, 
-  I'm Amol
-</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I'm Amol</h1>
 
 <!-- Profile banner -->
 <div align="center">
   <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile" alt="Profile Banner" />
 </div>
-
 <h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data." alt="Typing SVG">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
   </a>
 </h1>
 
@@ -19,17 +14,24 @@
 
 ## 👨🏻‍💻 About Me:
 
-<h6>Profile Views:</h6>              
+<h6> profile view : </h6>              
+
 <p align="center"><img src="https://profile-counter.glitch.me/Amol5766/count.svg"/></p>
 
-<img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" alt="GIF"/>
+<img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
+  
 - 🌱 I’m currently learning `MERN Stack`
+  
 - 👯 I’m looking to collaborate on `Dev Projects`
+  
 - 🤔 I’m looking for help with `Competitive Programming`
+  
 - 💬 Ask me about anything, Except Maths :sweat_smile:
+  
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+  
 - ⚡ Fun fact: I waste most of my time playing games
 
 ## 🛠️ Technologies and Tools I use:
@@ -60,47 +62,26 @@
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-## 🏆 Trophies
-
+## Trophies
 <details><summary>Discover</summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amol5766&column=7&theme=gruvbox&no-frame=true" width="900" alt="Trophies"/>
-</p>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=Amol5766&column=7&theme=gruvbox&no-frame=true"/>
 </details>
 
 ## ❤️ Let's get connected:
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/amol-m-82755a255/" title="LinkedIn Profile">
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="https://amol-portfolio-plum.vercel.app/" title="Portfolio Website">
-      <img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio
-    </a>
-  </code>
-  <code>
-    <a href="mailto:amolmaheshwara270@gmail.com" title="Gmail">
-      <img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail
-    </a>
-  </code>
-  <code>
-    <a href="https://twitter.com/@AmolM002" title="Twitter">
-      <img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter
-    </a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/not_amol_ok/" title="Instagram">
-      <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram
-    </a>
-  </code>
-</h5>
+    <a href="https://www.linkedin.com/in/amol-m-82755a255/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://amol-portfolio-plum.vercel.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
+  <code><a href="mailto:amolmaheshwara270@gmail.com" title="Gmail"><img width="22" src="https://github.com/C-mmon/C-mmon/blob/main/svg/gmail.svg"> Gmail</a></code>
+  <code><a href="https://twitter.com/@AmolM002" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
+  <code><a href="https://www.instagram.com/not_amol_ok/" title="Instagram"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram</code>
 
 ## 📊 My GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" alt="Amol's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol5766&theme=radical" alt="Amol's GitHub Streak" />
-  <img src="https://github-read
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" alt="Amol's Top Languages" />
+</div>
