@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Born+too+late+to+explore+the+Earth%2C;born+too+early+to+explore+the+Galaxy%2C;+born+just+in+time+to+explore+Data.">
+    <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1729146388/banner_tyfqp6.png">
   </a>
 </h1>
 
