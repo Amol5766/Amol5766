@@ -2,7 +2,7 @@
 
 <!-- Profile banner -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1729146388/banner_tyfqp6.png" alt="Profile Banner" />
+  <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1729147274/banner_tyfqp6.png" alt="Profile Banner" />
 </div>
 <h1 align="center">
   <a href="">
