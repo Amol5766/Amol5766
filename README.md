@@ -2,11 +2,11 @@
 
 <!-- Profile banner -->
 <div align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile" alt="Profile Banner" />
+  <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1729146388/banner_tyfqp6.png" alt="Profile Banner" />
 </div>
 <h1 align="center">
   <a href="">
-    <img src="https://res.cloudinary.com/dlgz2t08o/image/upload/v1729146388/banner_tyfqp6.png">
+    <img src="">
   </a>
 </h1>
 
