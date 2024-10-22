@@ -32,7 +32,7 @@
   
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
   
-- ⚡ Fun fact: I waste most of my time playing sports
+- ⚡ Fun fact: I waste most of my time playing sport
 
 ## 🛠️ Technologies and Tools I use:
 
