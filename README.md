@@ -20,7 +20,8 @@
 
 <img src="thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://amol-portfolio-plum.vercel.app/)**
+- 🙋‍♂️ All about me is at <a href="https://amol-portfolio-plum.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>My Website</strong></a>
+
   
 - 🌱 I’m currently learning `MERN Stack`
   
