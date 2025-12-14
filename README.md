@@ -23,7 +23,7 @@
 - 🙋‍♂️ All about me is at <a href="https://amol-portfolio-plum.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>My Website</strong></a>
 
   
-- 🌱 I’m currently learning `Nextjs`
+- 🌱 I’m currently learning `NextJs`
   
 - 👯 I’m looking to collaborate on `Dev Projects`
   
