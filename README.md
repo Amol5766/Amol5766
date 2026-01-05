@@ -84,8 +84,8 @@
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" height=150px />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" height=150px />
+  <img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" height=150px width=200px />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" height=150px width=200px />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" />
 </div>
