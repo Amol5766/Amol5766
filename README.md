@@ -68,7 +68,7 @@
 ## Trophies
 <details><summary>Discover</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=Amol5766&column=7&theme=gruvbox&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Amol5766&theme=radical&no-frame=false" />
 </details>
 
 ## ❤️ Let's get connected:
@@ -85,4 +85,9 @@
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Amol5766&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true&ep=true" alt="Amol's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" />
 </div>
+
