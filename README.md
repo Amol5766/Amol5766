@@ -92,5 +92,5 @@
   
   <br/>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Amol5766&theme=dracula&sideLabels=00EBDF" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Amol5766&theme=dracula&sideLabels=00EBDF)](https://git.io/streak-stats)
 </div>
