@@ -92,3 +92,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" />
 </div>
 
+## 🐍 My Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amol5766/Amol5766/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amol5766/Amol5766/output/github-snake.svg" />
+    <img alt="Amol5766 GitHub Snake" src="https://raw.githubusercontent.com/Amol5766/Amol5766/output/github-snake.svg" />
+  </picture>
+</div>
