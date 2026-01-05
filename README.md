@@ -84,12 +84,10 @@
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" height="160" /></td>
-      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" height="160" /></td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
+    <img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" height="160" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" height="160" />
+  </div>
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" />
 </div>
