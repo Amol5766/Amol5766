@@ -84,13 +84,13 @@
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amol5766&show_icons=true&theme=radical&hide_border=false" alt="Amol's GitHub Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Amol5766&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true&ep=true" alt="Amol's GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol5766&theme=radical" alt="Amol's GitHub Streak" />
-
+  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Amol5766&langs_count=8&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true" alt="Amol's Top Languages" />
+  
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" alt="Amol's Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Amol5766&theme=radical" alt="Amol's GitHub Streak" />
 </div>
