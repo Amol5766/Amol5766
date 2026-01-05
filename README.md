@@ -84,7 +84,7 @@
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Amol5766&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true&ep=true" alt="Amol's GitHub Stats" />
+  <img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" />
   <br/>
