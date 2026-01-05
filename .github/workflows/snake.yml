@@ -1,10 +1,8 @@
 name: Snake Game
+
 on:
   schedule:
-   - cron: "0 0 * * *" 
-   - cron: "0 6 * * *"
-   - cron: "0 12 * * *"
-   - cron: "0 18 * * *"
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
 permissions:
@@ -21,11 +19,10 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Zeycio
+          github_user_name: Amol5766
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-          
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
