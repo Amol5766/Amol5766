@@ -85,12 +85,4 @@
 
 <div align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Amol5766&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true&ep=true" alt="Amol's GitHub Stats" />
-  
-  <br/>
-
-  <img src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Amol5766&langs_count=8&cc=fff&tc=fe428e&ic=fe428e&bc=1a1b27&bg=1a1b27&gui=true" alt="Amol's Top Languages" />
-  
-  <br/>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Amol5766&theme=dracula&sideLabels=00EBDF)](https://git.io/streak-stats)
 </div>
