@@ -85,7 +85,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats-six.vercel.app/?user=Amol5766&theme=radical" alt="GitHub Streak" />
-  <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" />
   <br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" />
