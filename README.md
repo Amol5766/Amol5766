@@ -81,14 +81,30 @@
   <code><a href="https://twitter.com/@AmolM002" title="Twitter"><img width="22" src="https://upload.wikimedia.org/wikipedia/sco/9/9f/Twitter_bird_logo_2012.svg"> Twitter </a></code>
   <code><a href="https://www.instagram.com/not_amol_ok/" title="Instagram"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"> Instagram</code>
 
-  ## 🤝 Support Me:
-
-<a href="https://buymeacoffee.com/amol.m" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
-## 📊 My GitHub Stats:
+  ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amol5766&show_icons=true&theme=radical" alt="Amol's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amol5766&theme=radical" alt="Amol's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical" alt="Amol's Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amol5766&show_icons=true&theme=radical&hide_border=true"
+    alt="Amol's GitHub Stats"
+  />
+
+  <br /><br />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Amol5766&theme=radical&hide_border=true"
+    alt="Amol's GitHub Streak"
+  />
+
+  <br /><br />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amol5766&layout=compact&theme=radical&hide_border=true"
+    alt="Amol's Top Languages"
+  />
+
 </div>
